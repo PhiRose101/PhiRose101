@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hello World! 🌍 I'm Phi!
 
-<!--
-**PhiRose101/PhiRose101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Studying ##
+- 💻 Software Engineering
+- 🔒 Cyber Security 
+- 🔬 Biology
 
-Here are some ideas to get you started:
+## Working with ##
+[![My Skills](https://skillicons.dev/icons?i=github,pycharm,py,mysql)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Learning ##
+[![My Skills](https://skillicons.dev/icons?i=kali,cpp,flask)](https://skillicons.dev)
+
+## About Me ##
+- ⛰️ I climb mountains,
+- 🥞 I like breakfast food for dinner,
+- 🧶 I crochet,
+- 📚 and I usually have three books on the go
