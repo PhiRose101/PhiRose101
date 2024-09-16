@@ -18,3 +18,5 @@
 - 🥞 I like breakfast food for dinner,
 - 🧶 I crochet,
 - 📚 and I usually have three books on the go
+
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
